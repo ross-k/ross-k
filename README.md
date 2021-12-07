@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ross K!
-- 👀 I’m interested in data science, science science, AI, machine learning, Python, and LISPs including Clojure.
+- 👀 I’m interested in data science, science science, AI, machine learning, Python, R, and LISPs including Clojure.
 - 🌱 I’m currently enrolled in a Data Science boot camp.
 - 💞️ I need more training before I collaborate on anything non-trivial.
 - 📫 How to reach me ... the princess is in another castle.
