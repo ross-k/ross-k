@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ross K!
-- 👀 I’m interested in data science, science science, AI, machine learning, Python, R, and LISPs including Clojure.
-- 🌱 I’m currently enrolled in a Data Science boot camp.
-- 💞️ I need more training before I collaborate on anything non-trivial.
-- 📫 How to reach me ... the princess is in another castle.
+- 👀 I’m currently enrolled in a Data Science boot camp and graduating June 2022.
+- 🌱 We're studying Python, R, SQL, artificial intelligence, and machine learning.
+- 💞️ I am interested in using predictive analytics for financial and scientific data.  
+- 📫 Contact me at ross-k@users.noreply.github.com and I will respond when available.
 
 <!---
 ross-k/ross-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
