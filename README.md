@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ross K!
-- 👀 I’m currently enrolled in a Data Science boot camp and graduating June 2022.
-- 🌱 We're studying Python, R, SQL, artificial intelligence, and machine learning.
+- 👀 I just graduated from a Data Science boot camp.
+- 🌱 We studied Python, R, SQL, artificial intelligence, and machine learning.
 - 💞️ I am interested in using predictive analytics for financial and scientific data, and for evidence-based investing.  
 - 📫 Contact me at ross-k@users.noreply.github.com and I will respond when available.
 
