@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ross K!
-- 👀 I just graduated from a Data Science boot camp.
-- 🌱 We studied Python, R, SQL, artificial intelligence, and machine learning.
-- 💞️ I am interested in using predictive analytics for financial and scientific data, and for evidence-based investing.  
+- 👀 I am a Data Analyst interested in SQL, Python, and Tableau for data visualization.
+- 🌱 I recently graduated from Nashville Software School's Data Science boot camp.  We studied Python, R, SQL, statistical modeling, and machine learning.  
 - 📫 Contact me at ross-k@users.noreply.github.com and I will respond when available.
 
 <!---
